@@ -9,7 +9,6 @@ body {
     background-color: #f4f4f4;
 }
 
-/* HEADER */
 header {
     background-color: #333;
     color: white;
@@ -40,14 +39,12 @@ nav ul li a {
     font-weight: bold;
 }
 
-/* MAIN */
 main {
     display: flex;
     justify-content: space-between;
     padding: 150px;
 }
 
-/* SECCIÓN DESTACADA */
 .destacado {
     margin-right: 250px;
     background: white;
@@ -73,7 +70,6 @@ main {
     margin-top: 10px;
 }
 
-/* ASIDE */
 aside {
     background: white;
     padding: 20px;
@@ -99,7 +95,6 @@ aside ul li {
     font-size: 20px;
 }
 
-/* FOOTER */
 footer {
     background-color: rgb(48, 48, 48);
     color: white;
